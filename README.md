@@ -2,6 +2,12 @@
 # Digital Clock
 
 
+
+https://github.com/user-attachments/assets/fb9bb11e-a10c-4fc3-aa33-a1863c0a5057
+
+
+
+
 # Tiny Tapeout Verilog Project Template
 
 - [Read the documentation for project](docs/info.md)
