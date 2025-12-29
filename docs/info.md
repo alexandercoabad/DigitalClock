@@ -13,6 +13,8 @@ Digital clock
 
 ## How to test
 
+CLOCK_FREQ = 10000000
+
 /* * Retro Digital Clock & Date Display
  * [0]=12h/24h, [7]=Hold for Date
  * Clock Mode: [1,2]=Hour +/-, [3,4]=Min +/-, [5]=Sec Sync
