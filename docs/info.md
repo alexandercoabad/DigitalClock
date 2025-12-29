@@ -23,4 +23,4 @@ CLOCK_FREQ = 10000000
 
 ## External hardware
 
-Digital clock
+VGA Display
