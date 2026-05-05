@@ -4,7 +4,7 @@ Here is my AI-assisted circuit design, which utilizes Google Gemini to modify th
 
 Here is the link to my design in VGA Playground that you can interact: https://vga-playground.com/?repo=https://github.com/alexandercoabad/DigitalClock
 
-#Retro Digital Clock & Date Display control buttons
+Retro Digital Clock & Date Display control buttons
 
 [0]=12h/24h, [7]=Hold for Date
 Clock Mode: [1,2]=Hour +/-, [3,4]=Min +/-, [5]=Sec Sync
