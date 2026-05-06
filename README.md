@@ -20,9 +20,11 @@ https://github.com/user-attachments/assets/fb9bb11e-a10c-4fc3-aa33-a1863c0a5057
 
 
 # 3D
+Link to the 3d viewer: https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/DigitalClock/tinytapeout.oas&pdk=sky130A
+
 <img width="904" height="624" alt="Screenshot 2025-12-29 at 6 34 55 PM" src="https://github.com/user-attachments/assets/c0d99b53-1392-4b0b-a403-abc0ca18f868" />
 
-https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/DigitalClock/tinytapeout.oas&pdk=sky130A
+
 
 # Tiny Tapeout Verilog Project Template
 
