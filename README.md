@@ -2,7 +2,7 @@
 # Digital Clock
 Here is my AI-assisted circuit design, which utilizes Google Gemini to modify the Verilog code from the Tiny Tapeout VGA Playground (https://vga-playground.com/). This modification results in a "Retro Digital Clock & Date Display" that can display time in either 12-hour/24-hour format, as well as the date (MM:DD:YY).
 
-Here is the link to my design in VGA Playground that you can interact: https://vga-playground.com/?repo=https://github.com/alexandercoabad/DigitalClock
+Here is the link to my design in VGA Playground that you can interact with: https://vga-playground.com/?repo=https://github.com/alexandercoabad/DigitalClock
 
 Retro Digital Clock & Date Display control buttons
 
